@@ -13,4 +13,4 @@ This repository contains the MATLAB code to replicate the numerical simulation s
 
 For questions or for reporting bugs, please e-mail Matteo Giordano (matteo.giordano@unito.it).
 
-Please cite the following article if you use this repository in your research: Giordano, M (2025). Bayesian inference for initial heat states with Gaussian series priors
+Please cite the following article if you use this repository in your research: Giordano, M (2025). Bayesian inference for initial heat states with Gaussian series priors.
