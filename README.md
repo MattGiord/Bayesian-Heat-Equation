@@ -8,7 +8,7 @@ This repository is associated with the article "Bayesian inference for initial h
 
 This repository contains the MATLAB code to replicate the numerical simulation study presented in Section 3 of the article. It contains the following:
 
-1. GenerateObservations.m code to generate the observations (discrete point evaluations of the heat equation solution at a fixed time instant corrupted by additive Gaussian measurement errors) 
+1. GenerateObservations.m code to generate the observations (discrete point evaluations of the heat equation solution at a fixed time instant corrupted by additive Gaussian measurement errors).
 2. pCNSeries.m code to implement posterior inference based on Gaussian series priors defined on the Dirichlet-Laplacian eigenbasis, via the Gaussian conjugate formulae.
 
 For questions or for reporting bugs, please e-mail Matteo Giordano (matteo.giordano@unito.it).
